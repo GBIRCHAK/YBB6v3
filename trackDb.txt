@@ -3,3 +3,4 @@ type bedGraph
 shortLabel Read Count
 longLabel Read Count
 bigDataUrl HAC4_1_1_Enriched_S6_cutA_ASaccer3_T2T_YBB6_Combined_Bowtie2Indexed.bedgraph
+html https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/HAC4-1-1_TrackDescription.html
