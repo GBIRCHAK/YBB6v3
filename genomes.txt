@@ -2,7 +2,7 @@ genome ybb6_revised_v3_updated04192023
 trackDb https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/trackDb.txt
 groups https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/groups.txt
 description YBB6v3 assembly by Craig Gambogi
-twoBitPath C:\Users\beneb\ybb6_revised_v3_updated04192023.2bit
+twoBitPath https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/ybb6_revised_v3_updated04192023.2bit
 organism Human
 defaultPos ybb6_revised_v3_updated04192023:1-758687
 scientificName Homo sapiens
