@@ -6,3 +6,4 @@ twoBitPath https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/ybb6_revised_v
 organism Human
 defaultPos ybb6_revised_v3_updated04192023:1-758687
 scientificName Homo sapiens
+htmlPath https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/YBB6v3_Description.html.txt
