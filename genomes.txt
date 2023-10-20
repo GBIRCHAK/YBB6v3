@@ -1,5 +1,5 @@
 genome ybb6_revised_v3_updated04192023
-trackDb YBB6v3/trackDb.txt
+trackDb https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/trackDb.txt
 groups https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/groups.txt
 description YBB6v3 assembly by Craig Gambogi
 twoBitPath C:\Users\beneb\ybb6_revised_v3_updated04192023.2bit
