@@ -3,4 +3,4 @@ shortLabel ybb6_map
 longLabel ybb6_revised_v3_updated04192023_map
 genomesFile genomes.txt
 email gbirchak@pennmedicine.upenn.edu
-descriptionUrl github.com/GBIRCHAK/YBB6v3.html
+descriptionUrl https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/hub.txt
