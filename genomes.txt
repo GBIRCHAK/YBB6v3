@@ -1,6 +1,6 @@
 genome ybb6_revised_v3_updated04192023
-trackDb ybb6v3/trackDb.txt
-groups ybb6v3/groups.txt
+trackDb YBB66v3/trackDb.txt
+groups YBB6v3/groups.txt
 description YBB6v3 assembly by Craig Gambogi
 twoBitPath YBB6v3/YBB6v3.2bit
 organism Human
