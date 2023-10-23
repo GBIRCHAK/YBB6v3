@@ -1,2 +1,1 @@
-track type=bigBed name="Percent GC" color=0,0,0
-bigDataUrl https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/ybb6_revised_v3_updated04192023_GCContent.bb
+track type=bigBed name="Percent GC" color=0,0,0 bigDataUrl https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/ybb6_revised_v3_updated04192023_GCContent.bb
