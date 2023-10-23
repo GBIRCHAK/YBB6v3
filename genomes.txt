@@ -4,6 +4,6 @@ groups https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/groups.txt
 description YBB6v3 assembly by Craig Gambogi
 twoBitPath https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/ybb6_revised_v3_updated04192023.2bit
 organism Human
-defaultPos ybb6_revised_v3_updated04192023:1-700000
+defaultPos ybb6_manual_revisions_v3:100000-700000
 scientificName Homo sapiens
 htmlPath https://raw.githubusercontent.com/GBIRCHAK/YBB6v3/main/YBB6v3_Description.html
